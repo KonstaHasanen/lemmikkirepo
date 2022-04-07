@@ -2,7 +2,7 @@
   export let elain;
 </script>
 
-<h1>{elain.laji}-info</h1>
+<h1>Konsta Hasasen{elain.laji}-info</h1>
 
 <style>
   h1 {
