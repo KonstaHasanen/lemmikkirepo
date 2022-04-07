@@ -51,6 +51,7 @@
 </script>
 
 <main>
+  <h1>Konsta Hasanen</h1>
   <Otsikko {elain} />
   <Vinkki />
   <Elaimet {lemmikit} {elain} on:poista={poistaLemmikki} />
